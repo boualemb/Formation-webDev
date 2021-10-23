@@ -7,3 +7,11 @@ Formation Javascript
     <li> HTML : https://github.com/boualemb/Formation-webDev/blob/main/cours%201/index.html
     <li> JS : https://github.com/boualemb/Formation-webDev/blob/main/cours%201/js/app.js
  </ol>
+
+## Cours 2 - Boucles et Flow Control 
+
+ <ol>
+   <li> Diapos :
+   <li> HTML :
+   <li> JS : 
+ </ol>

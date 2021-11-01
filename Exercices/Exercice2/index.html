@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<head>
+    <title>Exercice 2 Convertisseur</title>
+    <script src="./main.js"></script>
+</head>
+
+<body onload="init()">
+    <form id="mode">
+        <label for="mode">
+        Mode :
+            <input onchange="populateSelect(this)" name="mode" type="radio" value="temperature" checked> Temperature
+            <input onchange="populateSelect(this)" name="mode" type="radio" value="distance"> Distance
+        
+        </label>
+    </form>
+     <br>
+    <label> Value :
+        <input onchange="convert()" id="valeur" type="number" value="0.0" autofocus> </label>
+    <label for="direction"> Direction </label>
+    <select id="direction" onchange="convert()">
+        <option value=0>F --> C</option>
+        <option value=1>C --> F</option>
+    </select>
+
+    <p id="resultat"></p>
+</body>
+
+</html>

@@ -1,0 +1,41 @@
+
+#medecin{
+    position: absolute;
+    top: 8%;
+    left: 8%;
+}
+#lieuetdate{
+    position: absolute;
+    top: 8%;
+    right: 8%;
+}
+#patient{
+    position: absolute;
+    top: 150px;
+    right: 8%;
+}
+.title{
+    position: absolute;
+    top: 250px;
+    width: 100%;
+    height: 50px;
+    align-content: center;
+    text-align: center;
+}
+
+table{
+    position: absolute;
+    left: 8%;
+    width: 84%;
+    top: 350px;
+}
+td, th{
+    text-align: left;
+    border-bottom: 1px solid black;
+}
+
+#signature{
+    position: absolute;
+    top: 85%;
+    right: 15%;
+}

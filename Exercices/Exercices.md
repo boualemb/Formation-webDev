@@ -38,3 +38,21 @@ var medicament = {nom:string, dose:string}
 
 <li> Créez une page web qui affiche une ordonnance.
 </ol>
+
+## Exercice 4
+
+<ol>
+    
+<li> Créez un tableau de n points en 2D (x, y) qui representent un polygone.
+    
+<li> Calculez : 
+
+<ul>
+    
+<li> le perimetre du polygone.
+
+<li> la surface du polygone: <img src="https://render.githubusercontent.com/render/math?math=Surface = \lvert \frac{(x_{1}y_{2} - y_{1}x_{2}) %2B (x_{2}y_{3} - y_{2}x_{3}) %2B \dots %2B  (x_{n}y_{1} - y_{n}x_{1})}{2} \rvert">
+    
+</ul>
+
+</ol>

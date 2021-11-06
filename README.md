@@ -15,3 +15,11 @@ Formation Javascript
   <li> HTML : https://github.com/boualemb/Formation-webDev/blob/main/cours%202/index.html
   <li> JS : https://github.com/boualemb/Formation-webDev/blob/main/cours%202/js/main.js 
  </ol>
+
+
+ ## Exercices 
+<ul>
+     
+<li> Enonces : https://github.com/boualemb/Formation-webDev/blob/main/Exercices/Exercices.md
+
+</ul>
